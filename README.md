@@ -1,17 +1,102 @@
-# weather_app
+# 🌤 Flutter Weather App
 
-A new Flutter project.
+A modern and beautifully designed Weather Application built using Flutter.
 
-## Getting Started
+This app provides:
+- real-time weather updates
+- 5-day forecast
+- weather analytics
+- dynamic weather backgrounds
+- smooth animations
+- location-based weather
+- premium dark UI
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+# ✨ Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+✅ Live Weather Data  
+✅ City Search  
+✅ GPS Location Detection  
+✅ 5-Day Forecast  
+✅ Dynamic Weather Backgrounds  
+✅ Weather Animations  
+✅ Sunrise & Sunset Info  
+✅ Weather Insights & Advisory Tips  
+✅ Smooth Page Transitions  
+✅ Settings Screen  
+✅ Responsive UI  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+# 🛠 Tech Stack
+
+- Flutter
+- Dart
+- Provider State Management
+- OpenWeather API
+- REST API
+- Shared Preferences
+
+---
+
+# 📸 Screenshots
+
+| Home Screen | Forecast Screen |
+|-------------|----------------|
+| Add Screenshot | Add Screenshot |
+
+| Details Screen | Settings Screen |
+|----------------|----------------|
+| Add Screenshot | Add Screenshot |
+
+---
+
+# 🚀 Installation
+
+## 1️⃣ Clone Repository
+
+```bash
+git clone https://github.com/swetha-pulluri/flutter-weather-app.git
+```
+
+---
+
+## 2️⃣ Open Project
+
+```bash
+cd flutter-weather-app
+```
+
+---
+
+## 3️⃣ Install Dependencies
+
+```bash
+flutter pub get
+```
+
+---
+
+## 4️⃣ Run App
+
+```bash
+flutter run
+```
+
+---
+
+# 🔑 API Used
+
+OpenWeather API
+
+https://openweathermap.org/api
+
+---
+
+# 👩‍💻 Author
+
+Swetha Pulluri
+
+GitHub:
+https://github.com/swetha-pulluri
