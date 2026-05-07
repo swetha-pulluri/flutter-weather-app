@@ -8,7 +8,6 @@ This app provides:
 - weather analytics
 - dynamic weather backgrounds
 - smooth animations
-- location-based weather
 - premium dark UI
 
 ---
@@ -16,8 +15,7 @@ This app provides:
 # ✨ Features
 
 ✅ Live Weather Data  
-✅ City Search  
-✅ GPS Location Detection  
+✅ City Search    
 ✅ 5-Day Forecast  
 ✅ Dynamic Weather Backgrounds  
 ✅ Weather Animations  
