@@ -40,13 +40,23 @@ This app provides:
 
 # 📸 Screenshots
 
-| Home Screen | Forecast Screen |
-|-------------|----------------|
-| Add Screenshot | Add Screenshot |
+## 🏠 Home Screen
+![Home Screen](home.png)
 
-| Details Screen | Settings Screen |
-|----------------|----------------|
-| Add Screenshot | Add Screenshot |
+---
+
+## 📅 Forecast Screen
+![Forecast Screen](forecast.png)
+
+---
+
+## 📊 Details Screen
+![Details Screen](details.png)
+
+---
+
+## ⚙ Settings Screen
+![Settings Screen](settings.png)
 
 ---
 
